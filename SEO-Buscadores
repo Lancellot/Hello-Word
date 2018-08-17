@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+      <head>
+          <!--1° home -->
+          <title>.:: Nome do site::. - descrição do site(slogan)</title>
+          <!--2°,... pag. -->
+          <!--<title>Titulo do artigo ou post - nome do site </title>-->
+          <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+          <meta name="description" content="descrição completa do conteúdo limitado a 156 caracteres"  />
+          <meta name="keywords" content="html, titulos, cabeçalho, seo, meta tags"  />
+          <meta name="author" content="Assis Pires neto"  />
+      </head>
+      <body>
+<!--ordendem de importancia-->
+          <h1>1°</h1>
+          <h2>2°</h2>
+          <h3>3°</h3>
+          <h4>4°</h4>
+          <h5>5°</h5>
+          <h6>6°</h6>
+
+      </body>
+</html>
+

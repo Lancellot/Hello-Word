@@ -1,0 +1,20 @@
+# Hello-Word
+<html>
+      <head>
+            <title>.:: MEU SITE ::.</title>
+      </head>
+      <body>
+
+              <H1 align="center" style="color:#0f0; font-family:impact;font-size:36px" >Meu TOP 1</H1>
+              <h2 align="right">Meu TOP 2</h2>
+              <P >MEU PRIMEIRO SITE HTML.<br>
+                Este é meu primeiro Texto.<br>
+                hue</P>
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+              <P>MEU SEGUNDO PARAGRAFO.</P>
+              <hr size=20 width=99% noshade>
+      </body>
+
+</html>
+
+html newbie

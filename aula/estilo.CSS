@@ -1,0 +1,16 @@
+a {
+    color: rgb(60, 224, 19);
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+h1{
+  font-family: helvetica, sans-serif;
+  }
+#segundo{
+   color:rgb(214, 144, 24) ;
+  }
+/*  leitura de cima para baixo( oque estiver embaixo pode sobre escrever os 1° ) */
+a.link{
+  color:rgb(121, 13, 91)
+  }
